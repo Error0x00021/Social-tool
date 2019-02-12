@@ -10,7 +10,7 @@ tener instalado curl, php, unzip, wget y ngrok.
 
 El uso es muy sencillo, para instalarlo debes seguir los pasos:
 
-1.- git clone 
+1.- git clone https://github.com/Error0x00021/Social-tool.git
 
 2.- sudo bash tool.sh
 
